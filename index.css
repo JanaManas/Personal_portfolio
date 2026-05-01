@@ -1,0 +1,14 @@
+.hero {
+  display: grid;
+  place-items: center;
+  height: 80vh;
+  text-align: center;
+}
+
+.hero__title {
+  font-size: 2.5rem;
+}
+
+.hero__desc {
+  margin: 10px 0;
+}
